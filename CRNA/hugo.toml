@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'CRNA LAB'
+theme = 'hugo-theme-cleanwhite-master'
