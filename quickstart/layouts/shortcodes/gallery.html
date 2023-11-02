@@ -1,9 +1,0 @@
-<!-- layouts/shortcodes/gallery.html -->
-<div class="photo-gallery">
-    {{ $images := split (.Get "images") "," }} 
-    {{ range $images }}
-    <div class="gallery-item">
-        <img src="{{ . }}" alt="Gallery Image">
-    </div>
-    {{ end }}
-</div>
