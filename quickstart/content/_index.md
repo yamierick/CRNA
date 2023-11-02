@@ -5,7 +5,9 @@ description: "Carter Riverside Neighborhood Association: Bringing the community 
 
 <!-- Header Image -->
 
-![Neighborhood Image](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/311004722_466309815531789_7403444648892674567_n.jpg?stp=dst-jpg_p480x480&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YdUsIMuetCsAX8RSg2_&_nc_ht=scontent-dfw5-2.xx&oh=00_AfC1IFatzBdwmmqAFLMvyokA6_7j6glp81dV2XWuvEjhHA&oe=653D62F3) <!-- Replace with an appropriate stock image -->
+<!-- ![Neighborhood Image](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/311004722_466309815531789_7403444648892674567_n.jpg?stp=dst-jpg_p480x480&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YdUsIMuetCsAX8RSg2_&_nc_ht=scontent-dfw5-2.xx&oh=00_AfC1IFatzBdwmmqAFLMvyokA6_7j6glp81dV2XWuvEjhHA&oe=653D62F3) Replace with an appropriate stock image -->
+
+![Neighborhood Image](/img/CRNAcover.jpg)
 
 ## Carter Riverside Neighborhood Association
 
