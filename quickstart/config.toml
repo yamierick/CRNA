@@ -1,0 +1,59 @@
+baseurl = "/"
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+languageCode = "en-us"
+theme = "hugo-classic"
+title = "Home"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+[menu]
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Photos"
+    url = "/photos/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Newsletters"
+    url = "/newsletters/"
+    weight = 3
+  
+  [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/post/"
+    weight = 1
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "A simple, minimal blog for those who love text."
+footer = "Sear Labs"
