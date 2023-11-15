@@ -1,0 +1,35 @@
+<header>
+    <nav>
+      <ul>
+        <!-- Logo on the left -->
+        <li class="pull-left logo">
+  
+            <a href="{{ .Site.BaseURL }}"
+            style="font-size: 40px; "
+             >CRNA</a>
+  
+        </li>
+  
+  
+        <!-- Main navigation items on the right -->
+        {{ $title := .Title }}
+        {{ $section :=  .Section }}
+        {{ range .Site.Menus.main }}
+        {{ $name := lower .Name }}
+        <li class="pull-right {{ if eq $name $title }}current{{ else if eq $section $name }}current{{ else if eq $title (pluralize $name) }}current{{ end }}">
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{end}}
+  
+        <!-- Feeds (if any) on the extreme right -->
+        {{ range .Site.Menus.feed }}
+        {{ $name := lower .Name}}
+        <li class="pull-right">
+          <a href="{{ .URL }}">{{ lower .Name}}</a>
+        </li>
+        {{end}}
+  
+      </ul>
+    </nav>
+  </header>
+  
