@@ -15,20 +15,19 @@ description: "Carter Riverside Neighborhood Association: Bringing the community 
 
 Carter Riverside Neighborhood Association (CRNA) appreciates your involvement and support in helping keep Riverside a great place to live! We need you as an active part of CRNA! Join us this Thursday for our monthly meeting and meet both old and new friends and neighbors.
 
-🍪 **Come a bit early for snacks and drinks!**  
-💵 Don't miss out on our 50/50 raffle drawing.
 
-🌟 **Special**: We have a membership level at just $5 to encourage membership renewals. Renewals are due each July. More details below.
 
-📅 **Monthly Membership Meeting** - Riverside Community Center  
-**Date**: Thursday, August 10, 6:30 pm
+📅 **Monthly Membership Meeting** - Sylvania Community Center  
+**Date**: Every Second Thursday
 
 - Invocation
 - Pledges of Allegiance
 - NPO & Code Compliance Updates
 - CRNA Member Spotlight
-- Introduction of Fort Worth City Councilwoman Jeanette Martinez  
-  **Guest Speaker**: Libby Willis on "The Stewardship of Riverside's Special Places: Why They're Important & How We're Saving Them".
+  **Guest Speakers**: Libby Willis, Jeanette Martinez, Mattie Parker, and more
+
+🍪 **Come a bit early for snacks and drinks!**  
+💵 Don't miss out on our 50/50 raffle drawing.
 
 ### CRNA Annual Events 🎉
 
@@ -40,7 +39,12 @@ Carter Riverside Neighborhood Association (CRNA) appreciates your involvement an
 - Coffee With The Cops
 - July 4th Celebration
 
+
+
+
 ### Membership Renewals 💳
+
+🌟 **Special**: We have a membership level at just $5 to encourage membership renewals. Renewals are due each July. More details below.
 
 Just $5 per person. Pay via cash, check, or Zelle at CRNAFWTX@gmail.com.  
 **We truly appreciate your support!**
