@@ -2,4 +2,6 @@
 title: "Newsletters"
 ---
 
-Welcome to the Carter Riverside Neighborhood Association's newsletters archive. Here you can find both our current newsletters and archives from previous months.
+Welcome to the Carter Riverside Neighborhood Association's newsletters archive.
+
+{{< gallery images="/img/b.jpg,/img/c.jpg,/img/d.jpg,/img/e.jpg,/img/f.jpg,/img/g.jpg">}}

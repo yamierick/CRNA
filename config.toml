@@ -53,6 +53,11 @@ post = "/post/:year/:month/:day/:slug/"
     url = "/post/"
     weight = 1
 
+  [[menu.main]]
+    name = "Join Us"
+    url = "/join/"
+    weight = 1
+
 [params]
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
