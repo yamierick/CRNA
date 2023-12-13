@@ -4,6 +4,8 @@ title: "Join Us"
 
 Join us..
 
+New Update
+
 ### Membership Renewals 💳
 
 Just $5 per person. Pay via cash, check, or Zelle at CRNAFWTX@gmail.com.  
