@@ -13,6 +13,8 @@ The Carter Riverside Neighborhood Association (CRNA) is dedicated to fostering a
 
 Catch up on the latest happenings and join in the fun at our upcoming events.
 
+We have our holiday party Thursday, December 14th with special guest Councilwoman Jeanette Martinez!!!
+
 {{< gallery images="/img/event1.jpg,/img/event2.jpg" >}}
 
 ### Get Involved
