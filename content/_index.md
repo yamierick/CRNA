@@ -9,13 +9,13 @@ description: "Carter Riverside Neighborhood Association: Bringing the community 
 
 The Carter Riverside Neighborhood Association (CRNA) is dedicated to fostering a vibrant and inclusive community through engagement, advocacy, and stewardship. Join us in celebrating Riverside, a place we're proud to call home.
 
-### Upcoming Events
+### Upcoming/Recent Events
 
-Catch up on the latest happenings and join in the fun at our upcoming events.
+Carter Riverside Neighborhood Association had its monthly meeting and annual Christmas Social on December 14. Special guests included Councilwoman Jeanette Martinez, District 11 Director Rachel Arellano and Riverside Lions Club president Jose Suarez. Riverside Business Spotlight was Texas Boot Restoration and owner Erik Reyes and CRNA Member Spotlight was Jerry Strother. CRNA members donated almost $1000 to the Carter Riverside High Angel Tree program and provided gifts and home essentials for a single parent family of six. Way to go CRNA!
 
-We have our holiday party Thursday, December 14th with special guest Councilwoman Jeanette Martinez!!!
+We also had our Christmas event that over 100 kids went to!
 
-{{< gallery images="/img/event1.jpg,/img/event2.jpg" >}}
+{{< gallery images="/img/Events/dec23meet.jpg,/img/Events/crnaxmas23.jpg" >}}
 
 ### Get Involved
 
