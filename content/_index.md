@@ -15,7 +15,7 @@ Carter Riverside Neighborhood Association had its monthly meeting and annual Chr
 
 We also had our Christmas event that over 100 kids went to!
 
-{{< gallery images="/img/dec23meet.jpg,/img/crnaxmas23.jpg" >}}
+{{< gallery images="/img/Events/dec23meet.jpg,/img/Events/crnaxmas23.jpg" >}}
 
 ### Get Involved
 
