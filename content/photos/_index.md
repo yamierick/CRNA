@@ -9,5 +9,5 @@ Welcome to our photo gallery! Here are some of our favorite moments.
 
 
 # Christmas 2023 Photos
-{{< gallery images="/img/erick_santa.jpg,/img/Dec2023/dec23meet1.jpg,/img/crna_dec23_meeting_2.jpg">}}
+{{< gallery images="/img/Events/erick_santa.jpg,/img/Meetings/Dec2023/dec23meet1.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_2.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_3.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_4.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_5.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_6.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_7.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_8.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_9.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_10.jpg">}}
 
