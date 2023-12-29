@@ -31,27 +31,27 @@ post = "/post/:year/:month/:day/:slug/"
 [[menu.main]]
     name = "Home"
     url = "/"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "Photos"
     url = "/photos/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Newsletters"
     url = "/newsletters/"
-    weight = 3
+    weight = 4
   
   [[menu.main]]
     name = "Events"
     url = "/events/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Blog"
     url = "/post/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     name = "Join Us"
@@ -61,4 +61,4 @@ post = "/post/:year/:month/:day/:slug/"
 [params]
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
-footer = "Sear Labs"
+footer = "Carter-Riverside Neighborhood Association, site run by member Erick Jones"
