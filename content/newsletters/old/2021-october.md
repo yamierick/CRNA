@@ -1,11 +1,11 @@
 ---
-title: "October 2023 Newsletter"
-date: 2023-10-01
+title: "Notes from October 2021"
+date: 2021-10-01
 ---
 
-# Carter Riverside Neighborhood Association: October 2023 Newsletter
+# Carter Riverside Neighborhood Association: October 2021
 
-Hello Riverside residents!
+Hello Carter Riverside residents!
 
 **Here's what's happening this month:**
 
@@ -13,7 +13,7 @@ Hello Riverside residents!
 
 2. **Tree Planting Initiative**: Join us on October 15th as we aim to plant 100 trees in the neighborhood park. Make Riverside greener!
 
-3. **Annual General Meeting**: Our AGM is on October 20th. It's your chance to be heard and participate in decision-making.
+3. **Monthly General Meeting**: Our General Meeting is always on the Second Tuesday of each month. It's your chance to be heard and participate in decision-making.
 
 **Upcoming**:
 

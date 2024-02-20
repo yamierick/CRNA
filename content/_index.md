@@ -11,20 +11,26 @@ The Carter Riverside Neighborhood Association (CRNA) is dedicated to fostering a
 
 ### Upcoming/Recent Events
 
-Carter Riverside Neighborhood Association had its monthly meeting and annual Christmas Social on December 14. Special guests included Councilwoman Jeanette Martinez, District 11 Director Rachel Arellano and Riverside Lions Club president Jose Suarez. Riverside Business Spotlight was Texas Boot Restoration and owner Erik Reyes and CRNA Member Spotlight was Jerry Strother. CRNA members donated almost $1000 to the Carter Riverside High Angel Tree program and provided gifts and home essentials for a single parent family of six. Way to go CRNA!
+Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center.
 
-We also had our Christmas event that over 100 kids went to!
+Next Meetings (2024):
+March 14th
+April 11th
+May 9th
+June 13th
+July 11th (Elections)
 
-{{< gallery images="/img/Events/dec23meet.jpg,/img/Events/crnaxmas23.jpg" >}}
+### What We Are Here For
 
-### Get Involved
-
-Your support makes all the difference. Renew your membership, volunteer, or attend a community meeting. Together, we can continue to make Riverside a great place to live.
+{{< gallery images="/img/Newsletters/Feb24/0002.jpg" >}}
 
 ### Stay Connected
 
 For the latest news and updates, join our mailing list and follow us on our social channels.
 
+### Get Involved
+
+Your support makes all the difference. Renew your membership, volunteer, or attend a community meeting. Together, we can continue to make Riverside a great place to live.
 ---
 
 ## Contact Us
