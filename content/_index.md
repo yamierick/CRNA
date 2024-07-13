@@ -15,15 +15,12 @@ Join us in celebrating Riverside, a place we're proud to call home.
 Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center.
 
 Next Meetings (2024):\
-* March 14th
-* April 11th
-* May 9th
-* June 13th
-* July 11th (Elections)
+* August 8th (Elections)
+* September 12th
+* October 10th
+* November 14th
 
-### What We Are Here For
-
-{{< gallery images="/img/Newsletters/Feb24/0002.jpg" >}}
+{{< gallery images="/img/Misc/fbreg24.jpg" >}}
 
 ### Stay Connected
 
@@ -41,4 +38,5 @@ Together, we can continue to make Riverside a great place to live.
 
 **Carter Riverside Neighborhood Association**  
 Email: [CRNAFWTX@gmail.com](mailto:CRNAFWTX@gmail.com)  
+Zelle: CARTER RIVERSIDE NEIGHBORHOOD ASSC Accounts Email: CRNAFWTX@GMAIL.COM
 Address: PO Box 7153, Fort Worth, Texas, 76111
