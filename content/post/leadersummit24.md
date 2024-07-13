@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-### Google Drive Folder With All Material
+### [Google Drive Folder With All Material](https://drive.google.com/drive/folders/1w9tM92vC4J0Jff2PbNpsCfVTZbRZuXQ1?usp=sharing)
 
 [Google Drive Link](https://drive.google.com/drive/folders/1w9tM92vC4J0Jff2PbNpsCfVTZbRZuXQ1?usp=sharing)
 

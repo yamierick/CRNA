@@ -14,7 +14,7 @@ Join us in celebrating Riverside, a place we're proud to call home.
 
 Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center.
 
-Next Meetings (2024):\
+Next Meetings (2024):
 * August 8th (Elections)
 * September 12th
 * October 10th

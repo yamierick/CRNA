@@ -4,6 +4,10 @@ title: "Join Us"
 
 ## Join us!!!
 
+Meetings every second Thursday of every month at the Riverside Community Center in Sylvania Park.
+
+Also events throughout the year check out our events page.
+
 
 ### Membership Renewals 💳
 
