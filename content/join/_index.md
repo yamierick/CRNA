@@ -7,7 +7,9 @@ title: "Join Us"
 
 ### Membership Renewals 💳
 
-Just $5 per person. Pay via cash, check, or Zelle at CRNAFWTX@gmail.com.  
+Just $12 per person. \
+Pay via cash or check at a meeting or \
+Zelle CRNAFWTX@gmail.com.  ; CARTER RIVERSIDE NEIGHBORHOOD ASSC Accounts \
 **We truly appreciate your support!**
 
 ---

@@ -37,6 +37,6 @@ Together, we can continue to make Riverside a great place to live.
 ## Contact Us
 
 **Carter Riverside Neighborhood Association**  
-Email: [CRNAFWTX@gmail.com](mailto:CRNAFWTX@gmail.com)  
-Zelle: CARTER RIVERSIDE NEIGHBORHOOD ASSC Accounts Email: CRNAFWTX@GMAIL.COM
+Email: [CRNAFWTX@gmail.com](mailto:CRNAFWTX@gmail.com)  \
+Zelle: CARTER RIVERSIDE NEIGHBORHOOD ASSC Accounts Email: CRNAFWTX@GMAIL.COM \
 Address: PO Box 7153, Fort Worth, Texas, 76111
