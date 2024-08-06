@@ -14,13 +14,13 @@ Join us in celebrating Riverside, a place we're proud to call home.
 
 Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center.
 
-Next Meetings (2024):
+Now livestreamed with Q&A at https://www.youtube.com/channel/UCZkZ3uUh-VSFKnwE38EE3pw/live
+
+Upcoming Events (2024):
 * August 8th (Elections)
 * September 12th
 * October 10th
 * November 14th
-
-{{< gallery images="/img/Misc/fbreg24.jpg" >}}
 
 ### Stay Connected
 
