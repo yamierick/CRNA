@@ -4,10 +4,16 @@ title: "Photos"
 
 Welcome to our photo gallery! Here are some of our favorite moments.
 
+Mira nuestros fotos aqui y en Google.
 
-{{< gallery images="/img/Misc/bike23.jpg,/img/Misc/trib23_1.jpg,/img/Misc/trib23_2.jpg">}}
+You can view our all of our photos on our Google Photos page.
+
+August 2024 - now: https://photos.app.goo.gl/v5ao5UrGqKDxrME78
+July 2023 - July 2024: https://photos.app.goo.gl/v5ao5UrGqKDxrME78
 
 
-# Christmas 2023 Photos
-{{< gallery images="/img/Events/erick_santa.jpg,/img/Meetings/Dec2023/dec23meet1.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_2.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_3.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_4.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_5.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_6.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_7.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_8.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_9.jpg,/img/Meetings/Dec2023/crna_dec23_meeting_10.jpg">}}
+{{< gallery images="/img/Misc/bike23.jpg,/img/Misc/trib23_2.jpg">}}
+
+
+
 

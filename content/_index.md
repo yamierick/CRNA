@@ -8,19 +8,31 @@ description: "Carter Riverside Neighborhood Association: Bringing the community 
 ## Welcome to Carter Riverside Neighborhood Association
 
 The Carter Riverside Neighborhood Association (CRNA) is dedicated to fostering a vibrant and inclusive community through engagement, advocacy, and stewardship.\
+
 Join us in celebrating Riverside, a place we're proud to call home.
+
+CRNA crear una comunidad vibrante via participación comunitaria, defensa, y protección.
 
 ### Upcoming/Recent Events
 
-Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center.
+Monthly Meetings every Second Thursday (Reuniones en Segundo Jueves del Mes) at 6:30 pm in Riverside Community Center.
+
+* Free Snacks and Drinks Brought by Neighbors (Bebidas y Comidas Gratis Del Vecino).
+
+* Crime and Code Updates (Crimen and Codigo Ultimas Noticias) from FWPD and Compliance.
+
+* Socialize and Fellowship with Neighborhors (Socializar con los Vecinos).
+
+* Discuss Challanges and Opportunities in our Riverside community (Hablar los Retos y Oportunidades de la Comunidad). 
+
 Now livestreamed with Q&A. 
 [**_Click Here for Livestream_**](https://www.youtube.com/channel/UCZkZ3uUh-VSFKnwE38EE3pw/live). Note link will only work starting at 6:30 pm on meeting days.
 
-Upcoming Events (2024):
-* August 8th (Elections)
-* September 12th
-* October 10th
-* November 14th
+Next Meetings (2025):
+* January 23rd
+* Febuary 13th
+* March 13th
+* April 10th
 
 ### Stay Connected
 

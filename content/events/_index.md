@@ -4,23 +4,39 @@ title: Events & Calendar
 
 # Upcoming Events
 
-Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center.
+Monthly Meetings every Second Thursday (Reuniones en Segundo Jueves del Mes) at 6:30 pm in Riverside Community Center.
 
-Next Meetings (2024):\
-* August 8th (Elections)
-* September 12th
-* October 10th
-* November 14th
+* Free Snacks and Drinks Brought by Neighbors (Bebidas y Comidas Gratis Del Vecino).
+
+* Crime and Code Updates (Crimen and Codigo Ultimas Noticias) from FWPD and Compliance.
+
+* Socialize and Fellowship with Neighborhors (Socializar con los Vecinos).
+
+* Discuss Challanges and Opportunities in our Riverside community (Hablar los Retos y Oportunidades de la Comunidad). 
+
+
+
+Next Meetings (2025):
+* January 23rd
+* Febuary 13th
+* March 13th
+* April 10th
 
 
 
 # Recent Events
 
-Carter Riverside Neighborhood Association had its monthly meeting and annual Christmas Social on December 14. Special guests included Councilwoman Jeanette Martinez, District 11 Director Rachel Arellano and Riverside Lions Club president Jose Suarez. Riverside Business Spotlight was Texas Boot Restoration and owner Erik Reyes and CRNA Member Spotlight was Jerry Strother. CRNA members donated almost $1000 to the Carter Riverside High Angel Tree program and provided gifts and home essentials for a single parent family of six. Way to go CRNA!
+* Oct 1 National Night Out (Noemi Dillard)
+* Oct 31: Boo on the Brae (Jennifer Nicholson)
+* Nov 13: CRNA Thanksgiving Feast (Martha Linnartz)
+* Dec 14: Christmas at Riverside (Evelyn Miller)
 
-We also had our Christmas event that over 100 kids went to!
 
-{{< gallery images="/img/Events/dec23meet.jpg,/img/Events/crnaxmas23.jpg" >}}
+{{< gallery images="/img/Events/christmas24.png,/img/Events/boo24.png,/img/Events/nno24.jpg" >}}
 
 # Past Events
+* 4th  of July 
+* Easter Egg Hunt
+* Kickball: CRNA vs. Oakhurst
+
 
