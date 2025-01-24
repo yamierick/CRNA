@@ -7,11 +7,17 @@ description: "Carter Riverside Neighborhood Association: Bringing the community 
 
 ## Welcome to Carter Riverside Neighborhood Association (CRNA) | Bienviendo a la CRNA Asociación de Vecinos
 
-The Carter Riverside Neighborhood Association (CRNA) is dedicated to fostering a vibrant and inclusive community through  advocacy, stewardship, and engaging family friendly events that bring the community together.  
+The Carter Riverside Neighborhood Association (CRNA) is dedicated to fostering a vibrant and inclusive community via:
+* Advocacy 
+* Stewardship
+* Engaging family friendly events that bring the community together.  
 
 Join us in celebrating Riverside, a place we're proud to call home.  
 
-CRNA crear una comunidad vibrante via defensa, protección, y eventos familiares que unen a la gente.  
+CRNA crea una comunidad vibrante via:
+* Defensa
+* Protección
+* Eventos familiares que unen a la gente.  
 
 ### Upcoming/Recent Events | Eventos Proximos y Eventos Recientes
 
@@ -24,8 +30,6 @@ Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center 
 * Socialize and Fellowship with Neighborhors | Socializar con los Vecinos
 
 * Discuss Challanges and Opportunities in our Riverside community | Hablar los Retos y Oportunidades de la Comunidad 
-
-
 
 
 
@@ -45,8 +49,8 @@ For the latest news and updates, join our mailing list and follow us on our soci
 
 ### Get Involved | Involucrarse 
 
-Your support makes all the difference.\
- Renew your membership, volunteer, or attend a community meeting.\
+Your support makes all the difference.  
+ Renew your membership, volunteer, or attend a community meeting.  
 Together, we can continue to make Riverside a great place to live.
 
 ---

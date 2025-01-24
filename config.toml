@@ -29,22 +29,22 @@ post = "/post/:year/:month/:day/:slug/"
 [menu]
 
 [[menu.main]]
-    name = "Home"
+    name = "Home | Inicio"
     url = "/"
     weight = 6
 
   [[menu.main]]
-    name = "Photos"
+    name = "Photos | Fotos"
     url = "/photos/"
     weight = 5
 
   [[menu.main]]
-    name = "Newsletters"
+    name = "Newsletters | Boletín"
     url = "/newsletters/"
     weight = 4
   
   [[menu.main]]
-    name = "Events"
+    name = "Events | Eventos"
     url = "/events/"
     weight = 3
 
@@ -54,7 +54,7 @@ post = "/post/:year/:month/:day/:slug/"
     weight = 2
 
   [[menu.main]]
-    name = "Join Us"
+    name = "Join Us | Únete"
     url = "/join/"
     weight = 1
 
