@@ -21,7 +21,7 @@ CRNA crea una comunidad vibrante via:
 
 ### Upcoming/Recent Events | Eventos Proximos y Eventos Recientes
 
-Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center | Reunión en Segundo Jueves del Me 
+**Monthly Meetings** every Second Thursday at 6:30 pm in Riverside Community Center | Reunión en Segundo Jueves del Me 
 
 * Free Snacks and Drinks Brought by Neighbors | Bebidas y Comidas Gratis Del Vecino
 
@@ -30,7 +30,6 @@ Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center 
 * Socialize and Fellowship with Neighborhors | Socializar con los Vecinos
 
 * Discuss Challanges and Opportunities in our Riverside community | Hablar los Retos y Oportunidades de la Comunidad 
-
 
 
 Now livestreamed with Q&A. 
@@ -42,13 +41,13 @@ Next Meetings (2025) | Próxima Reuniónes
 * March 13th | 03/13/2025
 * April 10th | 04/10/2025
 
-### Stay Connected | Conéctate con Nosotros
+
+
+
+
+### Stay Connected & Get Involved | Conéctate y Involucrarse 
 
 For the latest news and updates, join our mailing list and follow us on our social channels.
-
-
-### Get Involved | Involucrarse 
-
 Your support makes all the difference.  
  Renew your membership, volunteer, or attend a community meeting.  
 Together, we can continue to make Riverside a great place to live.
@@ -58,6 +57,17 @@ Together, we can continue to make Riverside a great place to live.
 ## Contact Us | Contacto con Nosotros
 
 **Carter Riverside Neighborhood Association**  
-Email: [CRNAFWTX@gmail.com](mailto:CRNAFWTX@gmail.com)  \
-Zelle: CARTER RIVERSIDE NEIGHBORHOOD ASSC Accounts Email: CRNAFWTX@GMAIL.COM \
+Email: [CRNAFWTX@gmail.com](mailto:CRNAFWTX@gmail.com)  
+Zelle: CARTER RIVERSIDE NEIGHBORHOOD ASSC Accounts Email: CRNAFWTX@GMAIL.COM  
 Address: PO Box 7153, Fort Worth, Texas, 76111
+
+**Board Members | Consejeros, 2024-25**
+President | Presidente: Erick C. Jones Jr.
+Vice President | Vicepresidente: Noemi Dillard
+Secretary & Treasurer | Secretario & Tesorero: Open | Abierto
+
+**Board Members | Consejeros, 2023-24**
+President | Presidente: Rick Herring
+Vice President | Vicepresidente: Erick C. Jones Jr.
+Secretary | Secretaria: Noemi Dillard
+Treasurer | Tesorero: Ken Hicks
