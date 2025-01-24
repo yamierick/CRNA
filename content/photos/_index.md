@@ -14,12 +14,7 @@ Mira nuestros fotos aqui y en Google.
 [July 2023 - July 2024](https://photos.app.goo.gl/v5ao5UrGqKDxrME78)  
 
 
-{{< gallery images="/img/Misc/bike23.jpg,
-/img/Misc/trib23_2.jpg,
-img/Highlights/erick_santa,
-img/Highlights/christmas_jeanette,
-img/Highlights/christmas_train,
-img/Highlights/july4_trailer">}}
+{{< gallery images="/img/Misc/bike23.jpg,/img/Misc/trib23_2.jpg,img/Highlights/erick_santa,img/Highlights/christmas_jeanette,img/Highlights/christmas_train,img/Highlights/july4_trailer">}}
 
 
 
