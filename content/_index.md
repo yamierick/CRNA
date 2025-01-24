@@ -21,7 +21,7 @@ CRNA crea una comunidad vibrante via:
 
 ### Upcoming/Recent Events | Eventos Proximos y Eventos Recientes
 
-**Monthly Meetings** every Second Thursday at 6:30 pm in Riverside Community Center | Reunión en Segundo Jueves del Me 
+**Monthly Meetings** every Second Thursday at 6:30 pm in Riverside Community Center | **Reuniónes** en Segundo Jueves del Mes  
 
 * Free Snacks and Drinks Brought by Neighbors | Bebidas y Comidas Gratis Del Vecino
 
@@ -61,13 +61,13 @@ Email: [CRNAFWTX@gmail.com](mailto:CRNAFWTX@gmail.com)
 Zelle: CARTER RIVERSIDE NEIGHBORHOOD ASSC Accounts Email: CRNAFWTX@GMAIL.COM  
 Address: PO Box 7153, Fort Worth, Texas, 76111
 
-**Board Members | Consejeros, 2024-25**
-President | Presidente: Erick C. Jones Jr.
-Vice President | Vicepresidente: Noemi Dillard
-Secretary & Treasurer | Secretario & Tesorero: Open | Abierto
+**Board Members | Consejeros, 2024-25**  
+President | Presidente: Erick C. Jones Jr.  
+Vice President | Vicepresidente: Noemi Dillard  
+Secretary & Treasurer | Secretario & Tesorero: Open | Abierto  
 
-**Board Members | Consejeros, 2023-24**
-President | Presidente: Rick Herring
-Vice President | Vicepresidente: Erick C. Jones Jr.
-Secretary | Secretaria: Noemi Dillard
-Treasurer | Tesorero: Ken Hicks
+**Board Members | Consejeros, 2023-24**  
+President | Presidente: Rick Herring  
+Vice President | Vicepresidente: Erick C. Jones Jr.  
+Secretary | Secretaria: Noemi Dillard  
+Treasurer | Tesorero: Ken Hicks  
