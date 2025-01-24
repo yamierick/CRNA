@@ -17,10 +17,10 @@ Monthly Meetings every Second Thursday at 6:30 pm in Riverside Community Center 
 
 
 Next Meetings (2025) | Próxima Reuniónes 
-* January 23rd
-* Febuary 13th
-* March 13th
-* April 10th
+* January 23rd | 01/23/2025
+* Febuary 13th | 02/13/2025
+* March 13th | 03/13/2025
+* April 10th | 04/10/2025
 
 
 

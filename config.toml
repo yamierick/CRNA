@@ -61,4 +61,4 @@ post = "/post/:year/:month/:day/:slug/"
 [params]
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
-footer = "Carter-Riverside Neighborhood Association, site run by member Erick Jones"
+footer = "Carter-Riverside Neighborhood Association, site run by member Erick C. Jones Jr."
