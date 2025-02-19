@@ -23,7 +23,7 @@ CRNA crea una comunidad vibrante via:
 
 Feb 13: FWISD Board President Roxanne Martinez presented Riverside Middle School bond project [**_Click here for presentation_**](https://docs.google.com/presentation/d/1t_LAs2gh_mLt4dVWM4lgPJsQ7jRUdeyr/edit?usp=sharing&ouid=114456869405722835155&rtpof=true&sd=true)
 
-{{< gallery images="/img/Meetings/riversidemsreno2025.jpg">}}
+[![Presentation](/img/Meetings/riversidemsreno2025.jpg)](https://docs.google.com/presentation/d/1t_LAs2gh_mLt4dVWM4lgPJsQ7jRUdeyr/edit?usp=sharing&ouid=114456869405722835155&rtpof=true&sd=true "Link to Presentation")
 
 
 **Monthly Meetings** every Second Thursday at 6:30 pm in Riverside Community Center | **Reuniónes** en Segundo Jueves del Mes  
