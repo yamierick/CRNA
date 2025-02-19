@@ -32,7 +32,7 @@ Next Meetings (2025) | Próxima Reuniónes
 * Dec 14: Christmas at Riverside (Evelyn Miller)
 * Feb 13: FWISD Board President Roxanne Martinez presented Riverside Middle School bond project [Click here for presentation](https://docs.google.com/presentation/d/1t_LAs2gh_mLt4dVWM4lgPJsQ7jRUdeyr/edit?usp=sharing&ouid=114456869405722835155&rtpof=true&sd=true)
 
-{{< gallery images="/img/Meetings/riversidemsreno2025.jpg, /img/Events/christmas24.png,/img/Events/boo24.png,/img/Events/nno24.jpg" >}}
+{{< gallery images="/img/Meetings/riversidemsreno2025.jpg, /img/Events/christmas24.png,/img/Events/boo24.png, /img/Events/nno24.jpg" >}}
 
 # Past Events | Eventos Pasado
 * 4th  of July 
