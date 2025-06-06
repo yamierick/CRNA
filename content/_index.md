@@ -21,10 +21,7 @@ CRNA crea una comunidad vibrante via:
 
 ### Upcoming/Recent Events | Eventos Proximos y Eventos Recientes
 
-Feb 13: FWISD Board President Roxanne Martinez presented Riverside Middle School bond project [**_Click here for presentation_**](https://docs.google.com/presentation/d/1t_LAs2gh_mLt4dVWM4lgPJsQ7jRUdeyr/edit?usp=sharing&ouid=114456869405722835155&rtpof=true&sd=true)
-
-[![Presentation](/img/Meetings/riversidemsreno2025.jpg)](https://docs.google.com/presentation/d/1t_LAs2gh_mLt4dVWM4lgPJsQ7jRUdeyr/edit?usp=sharing&ouid=114456869405722835155&rtpof=true&sd=true "Link to Presentation")
-
+* July 4th at Bonnie Brae Plaza | Bounce House Games 
 
 **Monthly Meetings** every Second Thursday at 6:30 pm in Riverside Community Center | **Reuniónes** en Segundo Jueves del Mes  
 
@@ -38,8 +35,8 @@ Feb 13: FWISD Board President Roxanne Martinez presented Riverside Middle School
 
 
 Next Meetings (2025) | Próxima Reuniónes 
-* March 13th | 03/13/2025
-* April 10th | 04/10/2025
+* June 12th  | 06/12/2025
+* July 10th | 07/10/2025
 
 Now livestreamed with Q&A. 
 [**_Click Here for Livestream_**](https://www.youtube.com/channel/UCZkZ3uUh-VSFKnwE38EE3pw/live). Note link will only work starting at 6:30 pm on meeting days.
