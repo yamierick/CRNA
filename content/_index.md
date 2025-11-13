@@ -61,3 +61,5 @@ President | Presidente: Rick Herring
 Vice President | Vicepresidente: Erick C. Jones Jr.  
 Secretary | Secretaria: Noemi Dillard  
 Treasurer | Tesorero: Ken Hicks  
+
+### Event, Blog, and Newsletter Posts

@@ -4,7 +4,7 @@ title: "Events"
 
 
 
-### Monthly Neighbhorhood Meetings
+## Monthly Neighbhorhood Meetings
 * Every Second Thursday at 6:30 pm at Riverside Community Center   
 * Meet, Socialize, and Fellowship with Neighborhors | Socializar con los Vecinos
 * Lean about what is happening in our neighborhood and the City
@@ -20,7 +20,7 @@ title: "Events"
 * March 13th | 03/13/2025
 * April 10th | 04/10/2025
 
-# Annual Events | Próximo Eventos
+## Annual Events | Próximo Eventos
 
 * 4th of July Celebration
 * National Night Out
@@ -28,8 +28,10 @@ title: "Events"
 * Christmas in Riverside
 
 
-# Other Events
+### Other Events
 * Easter Egg Hunt
 * Kickball: CRNA vs. Oakhurst
+
+## Event Pages
 
 
