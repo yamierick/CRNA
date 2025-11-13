@@ -1,6 +1,6 @@
 ---
-title: "Kickball CRNA vs. Oakhurst 2025"
-date: 2025-11-22
+title: "Kickball CRNA vs Oakhurst (2025)"
+date: 2025-11-12
 ---
 
 # CRNA vs. Oakhurst Kickball Tournament
