@@ -1,45 +1,39 @@
 ---
-title: Home | La Página Principal
+title: Home Page
 description: "Carter Riverside Neighborhood Association: Bringing the community together since 1995."
 ---
 
 ![Neighborhood Image](/img/CRNAcover.jpg)
 
-## Welcome to Carter Riverside Neighborhood Association (CRNA) | Bienviendo a la CRNA Asociación de Vecinos
+## Welcome to Carter Riverside Neighborhood Association (CRNA)
 
-The Carter Riverside Neighborhood Association (CRNA) is dedicated to fostering a vibrant and inclusive community via:
-* Advocacy 
-* Stewardship
-* Engaging family friendly events that bring the community together.  
+The Carter Riverside Neighborhood Association (CRNA), established in 1995, is an official City of Fort Worth neighbhor run organization.
 
-Join us in celebrating Riverside, a place we're proud to call home.  
+CRNA stands for:
 
-CRNA crea una comunidad vibrante via:
-* Defensa
-* Protección
-* Eventos familiares que unen a la gente.  
+* Advocacy | Defensa
+    * Championing for investments. Preserving our history. Keeping our area safe and clean.
+* Communication | Comunicación
+    * Sharing opportunities, information about events, opportunities, and new policies and iniatives. 
+* Community | Communidad
+    * Creating opportunities to come together as neighbhors   
 
-### Upcoming/Recent Events | Eventos Proximos y Eventos Recientes
 
-* July 4th at Bonnie Brae Plaza | Bounce House Games 
 
-**Monthly Meetings** every Second Thursday at 6:30 pm in Riverside Community Center | **Reuniónes** en Segundo Jueves del Mes  
+### Annual Events
 
+* 4th of July Celebration
+* National Night Out
+* Boo on the Brae (Halloween)
+* Christmas in Riverside
+
+### Monthly Neighbhorhood Meetings
+* Every Second Thursday at 6:30 pm at Riverside Community Center   
+* Meet, Socialize, and Fellowship with Neighborhors | Socializar con los Vecinos
+* Lean about what is happening in our neighborhood and the City
 * Free Snacks and Drinks Brought by Neighbors | Bebidas y Comidas Gratis Del Vecino
-
-* Crime and Code Updates from FWPD and Compliance |  Crimen and Codigo Ultimas Noticias
-
-* Socialize and Fellowship with Neighborhors | Socializar con los Vecinos
-
+* Games and Prizes
 * Discuss Challanges and Opportunities in our Riverside community | Hablar los Retos y Oportunidades de la Comunidad 
-
-
-Next Meetings (2025) | Próxima Reuniónes 
-* June 12th  | 06/12/2025
-* July 10th | 07/10/2025
-
-Now livestreamed with Q&A. 
-[**_Click Here for Livestream_**](https://www.youtube.com/channel/UCZkZ3uUh-VSFKnwE38EE3pw/live). Note link will only work starting at 6:30 pm on meeting days.
 
 ### Stay Connected & Get Involved | Conéctate y Involucrarse 
 
@@ -50,7 +44,7 @@ Together, we can continue to make Riverside a great place to live.
 
 ---
 
-## Contact Us | Contacto con Nosotros
+### Contact Us | Contacto con Nosotros
 
 **Carter Riverside Neighborhood Association**  
 Email: [CRNAFWTX@gmail.com](mailto:CRNAFWTX@gmail.com)  
